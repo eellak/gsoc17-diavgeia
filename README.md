@@ -13,6 +13,8 @@ Final Report
 ------------
 You can visit this [gist](https://gist.github.com/ThemisB/f4d246066e92173363c9e75cff8dae71) that summarizes in a few words, the work which was done during the Google Summer of Code working period.
 
+More info on the further development of this project can be found at https://github.com/ThemisB/diavgeiaRedefined 
+
 Synopsis
 --------
 Beginning October 1st, 2010, all government institutions are obliged to upload their acts and decisions on the Internet with special attention to issues of national security and sensitive personal data. Each document is digitally signed and assigned a unique Internet Uploading Number (IUN), certifying that the decision has been uploaded at the “Transparency Portal”. Following the latest legislative initiative (Law 4210/2013) of the Ministry of Administrative Reform and e-Governance, **administrative acts and decisions are not valid unless published online**.
